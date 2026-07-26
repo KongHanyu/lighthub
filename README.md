@@ -1,126 +1,194 @@
-# 吵架对线专用 Skill · 谁言人族无大帝
+<div align="center">
 
-> 当别人让你不舒服的时候，你不用忍着。笑着把话递回去，让对方接不住，才是成年人最高级的体面
+# Argument Master · 吵架对线专用 · 谁言人族无大帝
 
-一个收录了中英双语高赞对线金句的 WorkBuddy Skill。从各大平台的高赞神回复中精选整理，按场景和攻击类型分类，让 AI 在你被冒犯时秒级输出有力回击
+### When they come for you, come back harder. | 别人让你不舒服，笑着把话递回去
 
-## 功能特色
+**The ultimate AI clapback engine for WorkBuddy — bilingual ammo, 12 combat personas, 12 master techniques, distilled kill-shots. No AI smell, just real heat.**
 
-- **互联网吵架大师风格引擎** — 大师十二式（短句绝杀、角度刁钻、借力打力、荒诞比喻、诛心、不接招、反常识举例、点破双标、反讽拉满、降维蔑视、逻辑短路、不用句号）确保输出像真人随手打的，不像AI写的
-- **蒸馏精选句库** — 从全库提炼的最高浓度弹药，一击必杀级别，关键时刻直接取用
-- **去AI化规范** — 中文句尾无句号、不解释不铺垫、讽刺为主、短句优先。每次输出前过自检清单
-- **角色附体系统** — 选择附体人格，让回怼带上独特风格：上海骂街老太、哲学思辨大神、逻辑谬误寻找大师、以毒攻毒能人、佛系冷暴力大师、阴阳怪气宗师、东北社会大哥、律师精英 + 英文角色 The Sarcastic Brit、The Silicon Valley Disruptor、The Drag Queen Roaster、The Stoic Philosopher
-- **中英双语弹药库** — 中文按场景分类（道德绑架、阴阳怪气、职场甩锅、抬杠、人身攻击、PUA精神控制、假理性），英文按风格分类（Savage Burns、Chill Deflections、Ego Checks 等）
-- **多语言/方言金句** — 覆盖粤语、上海话、东北话、四川话、北京话、天津话、陕西话、山东话、湖南话及日语，可与角色附体叠加使用
-- **问答模板** — "对方说X → 你回Y"的经典对线模板，拿来即用
-- **战术心法** — 四条铁律（不自证、降维打击、剥离情绪、借力打力）+ 大师十二式 + 场景决策树
-- **红线机制** — 帮你回击，不帮你伤害。不攻击家人、不歧视、不网暴、不违法
+<p>
+<a href="https://github.com/KongHanyu/lighthub/releases/tag/v1.0.0"><img alt="Release" src="https://img.shields.io/badge/Release-v1.0.0-red?style=flat-square"></a>
+<a href="https://github.com/KongHanyu/lighthub/releases/download/v1.0.0/argument-master.zip"><img alt="Download" src="https://img.shields.io/badge/Download-argument_master.zip-blue?style=flat-square"></a>
+<img alt="License" src="https://img.shields.io/badge/License-MIT-green?style=flat-square">
+</p>
 
-## 使用示例
+</div>
 
-**场景：同事甩锅**
+---
 
-> 同事："这事儿你怎么没跟进？"
+## 😤 Does this sound familiar? | 这些场景你熟吗
+
+**EN — Ever been in these moments?**
+
+| The moment | What happens | What you wish |
+|------------|--------------|---------------|
+| Someone drops a passive-aggressive comment | You freeze, think of the perfect reply **three hours later** in the shower | You want to clap back **right now** |
+| A coworker throws you under the bus | You swallow it because you can't find the words on the spot | You want to shut it down **cleanly and firmly** |
+| You get morality-trapped ("think of the bigger picture") | Guilt silences you | You want to flip the trap **back on them** |
+| A troll goes after you in English | Your vocabulary dries up mid-argument | You want a **savage burn** loaded and ready |
+| Someone gaslights you with "I'm doing this for your own good" | You start doubting yourself | You want to see through the manipulation **and call it out** |
+
+**中文 — 这些瞬间，你经历过几个？**
+
+- 被人阴阳怪气，当时愣住，洗澡时才想到完美回怼——**晚了**
+- 同事当众甩锅，你张了张嘴，**没词了**
+- 被道德绑架"一个巴掌拍不响"，你气得发抖却**说不出话**
+- 网上对线，明明占理，气势上却**输了一截**
+- 英语吵架，词汇量关键时刻**断片**
+- 被PUA"为你好"，你还在**自我怀疑**，没意识到自己被操控
+
+> **Argument Master exists for one reason: when someone crosses your line, you shouldn't need three hours to find your words. You need the perfect reply in three seconds.**
 >
-> Skill 输出：
-> - **直接回怼：** 这事儿如果是我的问题我认，如果不是，别把你的焦虑转移给我
-> - **高级变体：** 帮忙是情分不帮是本分，别把我的情分当你的理所当然
+> **这个 skill 只解决一件事：别人越线的时候，你不该等三小时才想起怎么回。你要的是三秒内的完美反击**
 
-**场景：被道德绑架**
+---
 
-> 对方："一个巴掌拍不响，你肯定也有错"
+## 🔥 What it does | 它能干什么
+
+Argument Master is a **WorkBuddy Skill** that turns your AI assistant into a master-level clapback generator. Not a dictionary of generic comebacks — a **combat-grade argument engine** trained on the most upvoted roasts, burns, and reality checks from across the Chinese and English internet.
+
+这个 skill 把你的 AI 助手变成**大师级对线引擎**。不是那种平庸的"金句大全"——是从中英文互联网最高赞的神回复、毒舌、清醒发言里**提炼蒸馏出来的战斗系统**。
+
+### Core capabilities | 核心能力
+
+| Capability | What it means | 能干什么 |
+|-----------|---------------|---------|
+| **12 Master Techniques** 大师十二式 | Short-kill, dimension-drop, logic-short-circuit, heart-pierce, absurd-metaphor, reverse-mockery... 12 calibrated attack patterns | 十二种招式精准打击，短句绝杀到逻辑短路，招招致命 |
+| **Distilled Kill-Shots** 蒸馏精选句库 | The highest-concentration ammo, hand-distilled from the entire library. 6 categories, 30+ one-liners that end conversations | 全库蒸馏的最高浓度弹药，一句话结束对话 |
+| **12 Combat Personas** 角色附体系统 | Attach a personality: Shanghai street-granny, philosophy-debate god, sarcasm master, stoic cold-killer, Northeast boss, lawyer-elite + 4 English personas | 12种战斗人格随时切换，上海骂街老太到硅谷颠覆者 |
+| **Bilingual Ammo Library** 中英双语弹药库 | 9 Chinese scenarios + 7 English styles. Moral-kidnapping, passive-aggression, blame-shifting, trolling, PUA, fake-rationality — all covered | 9大中文场景 + 7种英文风格，道德绑架到假理性全覆盖 |
+| **9 Dialects + Japanese** 方言金句 | Cantonese, Shanghainese, Northeastern, Sichuanese, Beijing, Tianjin, Shaanxi, Shandong, Hunan + Japanese. Stackable with personas | 九种方言加日语，可和角色附体叠加，方言骂人更扎心 |
+| **Anti-AI Output** 去AI化真人感 | No periods at Chinese sentence ends, no explanations, no warm-ups, pure sarcasm, reads like a real person typed it | 中文不加句号，不解释不铺垫，讽刺拉满，像真人随手打的 |
+
+---
+
+## ⚔️ The 12 Master Techniques | 大师十二式
+
+These aren't just "be mean." Each technique is a **calibrated move** with a specific function:
+
+| # | Technique | What it does |
+|---|-----------|-------------|
+| 1 | **Short Kill** 短句绝杀 | One sentence, conversation over. No essay, no debate |
+| 2 | **Angle Cut** 角度刁钻 | Don't engage their frame — attack from a direction they didn't defend |
+| 3 | **Leverage Reverse** 借力打力 | Use their own logic to destroy their argument |
+| 4 | **Absurd Metaphor** 荒诞比喻 | A comparison so precise and absurd it leaves a mark |
+| 5 | **Heart Pierce** 诛心 | Go straight for what they care about most |
+| 6 | **Don't Engage** 不接招 | Refuse their frame entirely, start a new game |
+| 7 | **Counter-Example** 反常识举例 | One example that collapses their absolute claim |
+| 8 | **Expose Double Standards** 点破双标 | Drag their hypocrisy into the light |
+| 9 | **Max Sarcasm** 反讽拉满 | Say the opposite, let the irony do the damage |
+| 10 | **Dimension Drop** 降维蔑视 | Don't call them stupid — make them realize they don't deserve your effort |
+| 11 | **Logic Short-Circuit** 逻辑短路 | Follow their premise to an absurd conclusion, let them block their own mouth |
+| 12 | **No Period** 不用句号 | Write like a real person commenting, not like an AI writing an essay |
+
+---
+
+## 🎭 See it in action | 实战演示
+
+**Scenario: Coworker blames you | 同事甩锅**
+
+> Coworker: "这事儿你怎么没跟进？" (Why didn't you follow up on this?)
 >
-> Skill 输出：
-> - **直接回怼：** 拍在你脸上，看它响不响
-> - **降维打击：** 你说是就是吧，毕竟你的认知只能到这个高度了
+> **Default clapback:** 这事儿如果是我的问题我认，如果不是，别把你的焦虑转移给我
+> **Dimension drop:** 你说是我的问题？行，那请你拿出分工记录，拿不出来就别张嘴
+> **Persona — 东北社会大哥:** 别跟我俩装啥呢？这事儿谁的锅谁心里没数？
+> **Persona — 哲学思辨大神:** 你说的"跟进"是基于什么职责划分的前提？
+> **Persona — 佛系冷暴力大师:** 哦
+> **Persona — 阴阳怪气宗师:** 哇你真的好厉害哦，自己的锅甩得这么自然呢~
 
-**场景：应对PUA**
+**Scenario: Moral kidnapping | 道德绑架**
 
-> 对方："我这都是为你好"
+> Them: "一个巴掌拍不响，你肯定也有错" (It takes two to tango, you must be at fault too)
 >
-> Skill 输出：
-> - **点破动机：** 你说是为我好，我怎么觉得是为你自己爽
-> - **诛心：** 你贬低我的时候特别积极，这叫什么来着，精神控制
+> **Leverage reverse:** 拍在你脸上，看它响不响
+> **Dimension drop:** 你说是就是吧，毕竟你的认知只能到这个高度了
+> **Distilled kill-shot:** 按你这个逻辑，被抢劫的也怪自己兜里有钱？
 
-**场景：English troll**
+**Scenario: PUA / Gaslighting | 精神控制**
+
+> Them: "我这都是为你好" (I'm doing this for your own good)
+>
+> **Expose motive:** 你说是为我好，我怎么觉得是为你自己爽
+> **Heart pierce:** 你贬低我的时候特别积极，这叫什么来着，精神控制
+> **Distilled kill-shot:** 为我好？那你倒是说说，我哪里变好了
+
+**Scenario: English troll**
 
 > Troll: "Nobody even likes you."
 >
-> Skill output:
-> - **Savage burn:** "You have fans? Your mirror's too scared to tell you the truth."
-> - **Chill deflection:** "Heard you — still unbothered."
+> **Savage burn:** Your mirror's too scared to tell you the truth, so you think you have fans?
+> **Chill deflection:** Heard you — still unbothered.
+> **Persona — The Sarcastic Brit:** How lovely that you've appointed yourself spokesperson for everyone. Bold career move.
+> **Persona — The Drag Queen Roaster:** Baby, the only person who doesn't like me is you, and you're not exactly a demographic I'm chasing.
 
-**场景：角色附体 · 同事甩锅**
+---
 
-> 同事："这事儿你怎么没跟进？"
->
-> 选择附体角色后，同一场景产生完全不同的回怼：
-> - **东北社会大哥：** 别跟我俩装啥呢？这事儿谁的锅谁心里没数？
-> - **哲学思辨大神：** 你说的"跟进"是基于什么职责划分的前提？
-> - **佛系冷暴力大师：** 哦
-> - **阴阳怪气宗师：** 哇你真的好厉害哦，自己的锅甩得这么自然呢~
-> - **律师精英：** 根据项目分工记录，负责人是你，建议确认事实再开口
+## 📦 What's inside | 内容结构
 
-## 分类体系
+| File | Content | Role |
+|------|---------|------|
+| `SKILL.md` | Skill entry — trigger conditions, workflow, output rules | **The brain** — decides when and how this skill activates |
+| `references/internet-arg-master-style.md` | 12 Master Techniques + distilled kill-shots + anti-AI checklist | **The highest law** — read before every output, overrides everything else |
+| `references/chinese-comebacks.md` | 9 scenarios, 100+ Chinese clapbacks | **Chinese ammo** — moral kidnapping, passive-aggression, blame-shifting, trolling, personal attacks, PUA, fake-rationality, universal lines, savage one-liners |
+| `references/english-comebacks.md` | 7 styles, 80+ English clapbacks | **English ammo** — Savage Burns, Sassy Snaps, Clever Claps, Chill Deflections, Ego Checks, Self-Love Slams, IQ Droppers |
+| `references/tactics.md` | 4 iron rules + 12 techniques integration + decision tree + advanced combos + red lines | **The playbook** — read tactics first, pick ammo second |
+| `references/personas.md` | 8 Chinese + 4 English combat personas | **The arsenal** — each with personality, speech style, signature lines, best-use scenarios, tactical preferences |
+| `references/multilingual.md` | 9 dialects + Japanese | **The flavor pack** — stack with personas for maximum impact |
 
-### 互联网吵架大师风格指南 (`references/internet-arg-master-style.md`) — 输出最高法则
+---
 
-大师十二式 + 去AI化自检清单 + 蒸馏精选一击必杀句库。每次生成回怼前必读，和金句库冲突时以大师风格为准
+## 🚀 Install | 安装
 
-### 中文金句库 (`references/chinese-comebacks.md`)
+**Download:** [argument-master.zip](https://github.com/KongHanyu/lighthub/releases/download/v1.0.0/argument-master.zip)
 
-| 场景 | 战术 |
-|------|------|
-| 道德绑架 | 借力打力，用对方逻辑反打 |
-| 阴阳怪气 | 直接点破，不让对方阴阳下去 |
-| 职场甩锅 | 划清边界，拒绝不属于自己的责任 |
-| 抬杠杠精 | 降维打击，不进入逻辑泥潭 |
-| 人身攻击 | 不自证，反手用对方框架打回 |
-| PUA/精神控制 | 点破动机，拆穿控制本质 |
-| 假理性 | 逻辑短路，顺着推到荒谬 |
-| 万能句式 | 四两拨千斤，任何场景通用 |
-
-### 英文金句库 (`references/english-comebacks.md`)
-
-| Style | When to use |
-|-------|-------------|
-| Savage Burns | 直接攻击，最大伤害 |
-| Sassy Snaps | 轻蔑回击，不值一争 |
-| Clever Claps | 智力碾压，打击自以为是 |
-| Chill Deflections | 零能耗，最安全默认选项 |
-| Ego Checks | 专治傲慢自大 |
-| Self-Love Slams | 别人想贬低你时，展示无感 |
-
-### 战术心法 (`references/tactics.md`)
-
-四条铁律 + 大师十二式融合 + 场景决策树 + 进阶战术 + 蒸馏打击 + 红线规则。先读心法，再选弹药
-
-### 角色附体库 (`references/personas.md`)
-
-8个中文角色 + 4个英文角色，每个含性格、语言风格、典型话术、适用场景、战术偏好。附角色选择指南——根据对方类型推荐最佳角色
-
-### 多语言/方言金句库 (`references/multilingual.md`)
-
-覆盖粤语、上海话、东北话、四川话、北京话、天津话、陕西话、山东话、湖南话及日语。可与角色附体叠加（如"上海骂街老太"配上海话，效果拉满）
-
-## 安装
-
-将本 skill 放入 WorkBuddy 的 skills 目录：
+**For WorkBuddy users:**
 
 ```bash
-# 用户级（所有项目可用）
-cp -r argument-master ~/.workbuddy/skills/
+# User-level (available in all projects)
+unzip argument-master.zip -d ~/.workbuddy/skills/
 
-# 或项目级（仅当前项目）
-cp -r argument-master .workbuddy/skills/
+# Or project-level (current project only)
+unzip argument-master.zip -d .workbuddy/skills/
 ```
 
-重启 WorkBuddy 后，在对话中描述你的对线场景即可自动触发
+Restart WorkBuddy, then just describe your situation in conversation — the skill auto-triggers when it detects you need a clapback.
 
-## 选题声明
+**中文安装：**
 
-本 skill 收录的金句来自公开传播的网络高赞合集，属于网络文化的二次整理。所有内容仅用于在被冒犯时进行口头/文字回击，不鼓励网络暴力、人身威胁或任何形式的骚扰
+下载 zip，解压到 skills 目录，重启 WorkBuddy。之后在对话里描述你的对线场景，skill 自动触发，三秒给你弹药
+
+---
+
+## 🛡️ The red line | 红线
+
+This skill helps you **clap back**, not **harm**. It will not:
+- Attack someone's family
+- Use discrimination (race, gender, disability, etc.)
+- Encourage cyberbullying or harassment
+- Break any law
+
+We help you hold your line. We don't help you cross someone else's.
+
+帮你回击，不帮你伤害。不攻击家人，不搞歧视，不网暴，不违法。守住你的底线，不踩别人的底线
+
+---
+
+## 📜 Disclaimer | 选题声明
+
+All material is curated from publicly circulated, highly-upvoted internet content — a second-order整理 of internet culture. For verbal/written self-defense when provoked, not for initiating aggression.
+
+所有内容来自公开传播的网络高赞合集，属于网络文化的二次整理。仅用于被冒犯时的自我防卫回击，不鼓励主动攻击
+
+---
 
 ## License
 
-MIT
+MIT — use it, fork it, improve it. Just don't use it to be a genuinely terrible person.
+
+<div align="center">
+
+**⭐ Star this repo if it spoke to you | 觉得有用就点个 Star**
+
+[Download](https://github.com/KongHanyu/lighthub/releases/download/v1.0.0/argument-master.zip) · [Releases](https://github.com/KongHanyu/lighthub/releases) · [Issues](https://github.com/KongHanyu/lighthub/issues)
+
+</div>
